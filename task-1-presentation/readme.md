@@ -13,4 +13,4 @@ One challenge I faced was selecting the right amount of content so that the info
 
 ## 🖼️ Infographic Preview
 
-![Digital Literacy Infographic](task-1-presentation/digital-literacy-project-infographic.png)
+![Digital Literacy Infographic](digital-literacy-project-infographic.png)
